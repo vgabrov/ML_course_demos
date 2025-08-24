@@ -3,3 +3,7 @@ matplotlib
 scikit-learn
 ipywidgets
 voila
+
+dash
+plotly
+pandas
